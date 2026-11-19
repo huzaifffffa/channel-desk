@@ -1,0 +1,10 @@
+{
+  "name": "channel-desk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local YouTube channel analytics with no paid dependencies",
+  "engines": { "node": ">=22.13.0" },
+  "scripts": { "start": "node server.mjs", "test": "node --test test/*.test.mjs" },
+  "license": "MIT"
+}
