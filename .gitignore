@@ -1,0 +1,12 @@
+data/
+*.zip
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+vault.key
